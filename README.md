@@ -1,6 +1,6 @@
 # Python-Basics-Sept-2020
 Python Basics Part 1 Sept 2020
-
+https://github.com/Pravinraja/Python-Basics-Sept-2020/blob/main/README.md
 Tasks Completed
 
 Problem 1)  Ask the User for their Name and their favorite number Print to screen "Hi <name>, your favorite number is <number>" replace <> with their input If there favorite number is greater than 10 tell them "they think big" If their favorite number is less than 10 tell them "Think bigger next time!" '
